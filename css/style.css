@@ -11,7 +11,7 @@ html {
   scroll-behavior: smooth;
  }
 body {
-  background-color: #B3B9B3;
+  background-color: #B0C4DE;
   margin: 0;
 }
 h1 {
@@ -67,7 +67,7 @@ main {
 }
 .item:nth-child(1) {
   grid-column: 1/2;
-  background-color: #818C81;
+  background-color: #4682B4;
   color: white;
   padding: 10px 10px;
 }
@@ -94,7 +94,7 @@ footer {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  background-color: #818C81;
+  background-color: #4682B4;
   color: white;
   padding: 10px 10px;
   margin-top: 10px;
