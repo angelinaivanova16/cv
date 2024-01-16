@@ -17,12 +17,15 @@ body {
 h1 {
   font-size: 2.5vw;
 }
-p, li, pre, a {
-  font-size: 1vw;
+pre {
+  font-size: 0.9vw;
+}
+p, a, li {
+  font-size: 1.2vw;
 }
 .list {
   margin: 0;
-  padding: 0 20%;
+  padding: 0 10%;
 }
 li {
   margin: 1em 0;
